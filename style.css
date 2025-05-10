@@ -25,7 +25,7 @@ header h2:hover{
     font-size: 30px;
 }
 nav a{
-    font-size: 50px;
+    font-size: 20px;
     text-transform: uppercase;
     background: linear-gradient(45deg, #000000 33%, #20dd02 66%, #000000 );
     -webkit-background-clip: text;
@@ -36,7 +36,7 @@ nav a{
     padding:  30px;
 }
 nav a:hover{
-    font-size: 65px;
+    font-size: 25px;
     background: linear-gradient(225deg, #000000 33%, #20dd02 66%, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -359,4 +359,7 @@ footer p{
 }
 .kingdom p,.kingdom h2{
     color:white;
+}
+a{
+    font-size:40px;
 }
