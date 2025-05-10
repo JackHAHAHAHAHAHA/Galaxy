@@ -79,7 +79,7 @@ p{
 }
 
 .castlea:hover{
-    font-size: 25px;
+    font-size: 45px;
     background: linear-gradient(225deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -87,7 +87,7 @@ p{
     display: table;
 }
 .castlea{
-    font-size: 20px;
+    font-size:40px;
     text-transform: uppercase;
     background: linear-gradient(45deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
@@ -100,7 +100,7 @@ p{
     top:200px;   
 }
 .castleaa{
-    font-size: 20px;
+    font-size:40px;
     text-transform: uppercase;
     background: linear-gradient(45deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
@@ -113,7 +113,7 @@ p{
     top:620px;
 }
 .castleaa:hover{
-    font-size: 25px;
+    font-size: 45px;
     background: linear-gradient(225deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -121,7 +121,7 @@ p{
     display: table;
 }
 .castleaaa:hover{
-    font-size: 25px;
+    font-size: 45px;
     background: linear-gradient(225deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -129,7 +129,7 @@ p{
     display: table;
 }
 .castleaaa{
-    font-size: 20px;
+    font-size:40px;
     text-transform: uppercase;
     background: linear-gradient(45deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
@@ -149,7 +149,7 @@ p{
     background-image: linear-gradient(rgb(0, 83, 0), lightgreen);
 }
 .foresta{
-    font-size: 20px;
+    font-size:40px;
     text-transform: uppercase;
     background: linear-gradient(45deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
@@ -162,7 +162,7 @@ p{
     top:480px;   
 }
 .foresta:hover{
-    font-size: 25px;
+    font-size: 45px;
     background: linear-gradient(225deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -170,7 +170,7 @@ p{
     display: table;
 }
 .forestaa{
-    font-size: 20px;
+    font-size:40px;
     text-transform: uppercase;
     background: linear-gradient(45deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
@@ -183,7 +183,7 @@ p{
     top:333px;   
 }
 .forestaa:hover{
-    font-size: 25px;
+    font-size: 45px;
     background: linear-gradient(225deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -191,7 +191,7 @@ p{
     display: table;
 }
 .forestaaa{
-    font-size: 20px;
+    font-size:40px;
     text-transform: uppercase;
     background: linear-gradient(45deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
@@ -204,7 +204,7 @@ p{
     top:520px;   
 }
 .forestaaa:hover{
-    font-size: 25px;
+    font-size: 45px;
     background: linear-gradient(225deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -212,7 +212,7 @@ p{
     display: table;
 }
 .forestaaaa{
-    font-size: 20px;
+    font-size:40px;
     text-transform: uppercase;
     background: linear-gradient(45deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
@@ -225,7 +225,7 @@ p{
     top:250px;   
 }
 .forestaaaa:hover{
-    font-size: 25px;
+    font-size: 45px;
     background: linear-gradient(225deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -233,7 +233,7 @@ p{
     display: table;
 }
 .atoma{
-    font-size: 20px;
+    font-size:40px;
     text-transform: uppercase;
     background: linear-gradient(45deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
@@ -246,7 +246,7 @@ p{
     top:600px;   
 }
 .atoma:hover{
-    font-size: 25px;
+    font-size: 45px;
     background: linear-gradient(225deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -254,7 +254,7 @@ p{
     display: table;
 }
 .atomaa{
-    font-size: 20px;
+    font-size:40px;
     text-transform: uppercase;
     background: linear-gradient(45deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
@@ -267,7 +267,7 @@ p{
     top:200px;   
 }
 .atomaa:hover{
-    font-size: 25px;
+    font-size: 45px;
     background: linear-gradient(225deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -289,7 +289,7 @@ div{
     content: url(https://learn.logikaschool.com/uploads/student/3115894/6818874eb532a.png);
 }
 .endima:hover{
-    font-size: 25px;
+    font-size: 45px;
     background: linear-gradient(225deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -297,7 +297,7 @@ div{
     display: table;
 }
 .endima{
-    font-size: 20px;
+    font-size:40px;
     text-transform: uppercase;
     background: linear-gradient(45deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
@@ -310,7 +310,7 @@ div{
     top:300px;   
 }
 .endimaa{
-    font-size: 20px;
+    font-size:40px;
     text-transform: uppercase;
     background: linear-gradient(45deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
@@ -323,7 +323,7 @@ div{
     top:620px;
 }
 .endimaa:hover{
-    font-size: 25px;
+    font-size: 45px;
     background: linear-gradient(225deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -331,7 +331,7 @@ div{
     display: table;
 }
 .endimaaa:hover{
-    font-size: 25px;
+    font-size: 45px;
     background: linear-gradient(225deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -339,7 +339,6 @@ div{
     display: table;
 }
 .endimaaa{
-    font-size: 20px;
     text-transform: uppercase;
     background: linear-gradient(45deg, #000000 33%, #737373 66%, #000000 );
     -webkit-background-clip: text;
@@ -350,6 +349,7 @@ div{
     position:relative;
     left: 600px;
     top:200px;
+    font-size:40px;
 }
 .galaxy{
     background-image: linear-gradient(grey, yellow, blue, green); 
@@ -357,9 +357,6 @@ div{
 footer p{
     text-align: center;
 }
-.kingdom p,.kingdom h2{
+.castle{
     color:white;
-}
-a{
-    font-size:40px;
 }
